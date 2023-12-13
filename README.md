@@ -30,9 +30,11 @@ Write the needed HTML code.Run the Django server and excute the HTML files.
 </html>
 ```
 ## Output:
-![Screenshot (1)](https://github.com/Tanug25/places-around-me/assets/138849166/1f342af1-5dc0-4653-800c-5c7f5b779515)
-![Screenshot (2)](https://github.com/Tanug25/places-around-me/assets/138849166/1fbac6af-9170-445e-bb65-bb4a2cb7d22d)
-![Screenshot (3)](https://github.com/Tanug25/places-around-me/assets/138849166/f34989e9-f68d-449a-81fa-22c36b268b10)
-![Screenshot (4)](https://github.com/Tanug25/places-around-me/assets/138849166/c6a68ed8-fa3d-4d34-8ffd-e0d207fa4f07)
-![Screenshot (5)](https://github.com/Tanug25/places-around-me/assets/138849166/36cfe8ba-4820-4b60-8a31-905c1952204f)
-![Screenshot (7)](https://github.com/Tanug25/places-around-me/assets/138849166/4c2eb6d7-56d6-4e87-9da9-a159128d0264)
+COFFEESHOP
+![Alt text](<Screenshot from 2023-12-13 18-18-42.png>)
+ANNAPARK
+![Alt text](<Screenshot from 2023-12-13 18-19-08.png>)
+METRO
+![Alt text](<Screenshot from 2023-12-13 18-19-30.png>)
+HAIRSHOP
+![Alt text](<Screenshot from 2023-12-13 18-20-03.png>)
